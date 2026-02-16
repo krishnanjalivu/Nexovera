@@ -1,4 +1,25 @@
-# React + TypeScript + Vite
+# Nexovera
+
+The Intelligence Behind Your Health — AI-driven biomarker monitoring for cognitive and physical health.
+
+## Waitlist Form Setup
+
+To receive waitlist signups at **vukrishnanjali@gmail.com**:
+
+1. Go to [Formspree](https://formspree.io) and sign up
+2. Create a new form and set **vukrishnanjali@gmail.com** as the recipient
+3. Copy your form ID (e.g. `xjvqgqgw`)
+4. Create a `.env` file in the project root with:
+   ```
+   VITE_FORMSPREE_FORM_ID=your_form_id_here
+   ```
+5. Restart the dev server
+
+If Formspree isn't configured, the error message shows a direct mailto link to vukrishnanjali@gmail.com.
+
+---
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

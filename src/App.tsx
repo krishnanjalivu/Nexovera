@@ -337,9 +337,17 @@ function App() {
             <div className="team-member p-8 md:p-10 rounded-2xl">
               <div className="team-member-photo">KR</div>
               <h3 className="team-member-name">Krishnanjali</h3>
-              <p className="team-member-role">Founder & CTO</p>
+              <p className="team-member-role">Founder & COF</p>
               <p className="team-member-desc">
                 Engineer + Computer Science Major.
+              </p>
+            </div>
+            <div className="team-member p-8 md:p-10 rounded-2xl">
+              <div className="team-member-photo">CF</div>
+              <h3 className="team-member-name">Christopher Fahnoe</h3>
+              <p className="team-member-role">Founder & COF</p>
+              <p className="team-member-desc">
+                Biological Science Major.
               </p>
             </div>
           </div>
